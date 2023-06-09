@@ -1,0 +1,66 @@
+/*============================================================Default Color Start============================================================*/
+.shop-detail-slider.nav-style-1 .owl-buttons [class*="owl-"],.main-slider.nav-style-1 .owl-buttons [class*="owl-"]:hover,.blog-meta li a:hover,.title:hover a,.blog-thumb:hover .title a,.readmore-btn:hover,.social-meta li a:hover,.btn.th-bg:hover,.gallery-nav .port-filter li .active,.event-thumb-2 .btn,.ct-list.layout3 i,.blue-bg .nav-style-1 .owl-buttons [class*="owl-"],.newsletter-widget .submit-btn:hover::before,.newsletter-widget .form-control:focus,.list-group-icon li::before,.header-style1-1 .navigation li.active a,.th-cl{
+  color: #ff9900
+}
+/*============================================================Default Background Color Start============================================================*/
+[data-theme-overlay]::before,.top-bar .btn:hover,.product-social-meta .style-2.social-meta li a:hover,.shop-detail-slider.nav-style-1 .owl-buttons [class*="owl-"]:hover,.white-bg:hover,.banner-slide .btn:hover,blockquote,.tabs-area li a.active,.readmore-btn::before,.pagination-area ul li a:hover,.pagination-area ul li.active a,.gallery-nav .port-filter li a::before,.event-thumb .btn:hover,.event-thumb-2 .btn:hover,.event-list-thumb .btn:hover,.tabs-area-2 li a.active,.sidebar-widgets .single-widget.tags_widget .tags-list ul li a:hover,nav .pagination li a:hover,.sidebar-widgets-style-1 .single-widget .widget-title h2::after,.sidebar-widgets .single-widget.widget_search .search-form .from-grupe button:hover,label.btn.th-bg,.header-style1-1 .mean-container a.meanmenu-reveal,.header-style1-1 .navigation li a::after,.th-bg{
+  background-color: #ff9900
+}
+/*============================================================Default Border Color Start============================================================*/
+.shop-detail-slider.nav-style-1 .owl-buttons [class*="owl-"]:hover,.white-bg:hover,.services-7:after, 
+.services-7:before,.banner-slide .btn:hover,.main-slider.nav-style-1 .owl-buttons [class*="owl-"]:hover,label.btn.th-bg,.readmore-btn.th-cl,.event-thumb .btn:hover,.btn.th-bg,.event-thumb-2 .btn,.event-list-thumb .btn:hover,.blue-bg .nav-style-1 .owl-buttons [class*="owl-"],.form-control:focus,.sidebar-widgets .single-widget.tags_widget .tags-list ul li a:hover,.th-bdr{
+  border-color: #ff9900 !important
+}
+.btn{
+  --box-shadow-color: #ff9900;
+}
+/*============================================================Default Transition Start============================================================*/
+*::after,*::before,[class*="services-"],.event-thumb-2 figure img,.owl-buttons [class*="owl-"],a,label,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,input,.btn,.blog,figure,.title,.tags a,.title a,textarea,.social-box,.social-box *,.slick-arrow,.box-icon-1,.navigation a,.slick-dots li,.slick-dots li::before,.work-thumb figure::after,.work-thumb figure figcaption,.p-absolute:hover::before,.slick-nav-style > ul > li,.social-list li a,.blog-thumb,.event-thumb,.social-meta li a,.price-thumb,.gallery-thumb figure:after,.services-7,.services-7 *,.team-thumb{
+  transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+}
+/*============================================================Second Background Color Start============================================================*/
+.gray-bg{
+  background-color:#f8f7f9/* #ebebea */
+  ;
+}
+{
+  border-color:#f8f7f9/* #ebebea */
+  ;
+}
+.gray-bg {
+  background-color: #f9f8ff;
+}
+.pearpal-bg{
+  background-color: #e743af;
+}
+.services-9:hover,
+.hover-blue:hover,
+.btn.blue-bg,.image-thumb-1::after,.blue-bg{
+  background-color: #4582ff;
+}
+.services-9:hover:after,
+.services-9:hover:before,
+.hover-blue:hover,
+.btn.blue-bg{
+  border-color:#4582ff;
+}
+.btn.blue-bg{
+  color: #fff;
+}
+.blue-cl{
+  color: #4582ff;
+}
+.olive-bg{
+  background-color:#04d2c8;
+}
+.red-bg{
+  background-color: #c40032
+}
+.orange-cl{
+  color: #fd7504;
+}
+.pink-cl{
+  color: #ff78a1
+}
